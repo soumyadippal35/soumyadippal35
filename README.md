@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on machine learning & Artificial intelligence <br>👯 I’m looking to collaborate on projects of data analysis and development<br>🤝 I’m looking for help with juniors  <br>🌱 I’m currently learning data warehouse, machine learning, web development<br>💬 Ask me about my strategies to overcome in crucial moments and time management <br>⚡ Fun fact about me is I'm happy or you can say that really crazy to solve real world problem
+🔭 I’m currently working on machine learning & Artificial intelligence <br>👯 I’m looking to collaborate on projects of data analysis and development<br>🤝 I’m looking for help with juniors  <br>🌱 I’m currently learning data warehouse, machine learning, web development<br>💬 Ask me about my strategies to overcome in crucial moments and time management <br>⚡ Fun fact about me is I'm happy or you can say that really crazy to solve real world problems.
 
 
 ## 🌐 Socials:
